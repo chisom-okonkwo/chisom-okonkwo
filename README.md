@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi! I'm Chisom (chee-soom)!  
 
-<!--
-**chisom-okonkwo/chisom-okonkwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Embedded Systems Engineer  
 
-Here are some ideas to get you started:
+In other words, **I build cool stuff**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me  
+- 🎓 **Student of Computer Science** with a focus on embedded systems and IoT development.   
+- 🌍 **Visionary Maker**: I aim to create solutions that tackle real-world problems.
+
+---
+
+## 💻 My Tech Stack  
+
+- **Languages**: Python, C/C++, Java, Arduino, SQL, HTML, CSS
+
+---
+
+
+## 🌱 Currently Building:
+- A smart device that helps me increase my focus by setting mode for different activities.  
+- A gas detector that sends a phone notificat when gas leaks are detected.  
+---
