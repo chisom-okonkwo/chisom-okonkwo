@@ -1,6 +1,6 @@
-# 👋 Hi! I'm Chisom (chee-soom)!  
+# 👋 Hi! I'm Chisom (chee-som)!  
 
-### 🚀 Embedded Systems Engineer  
+### 🚀 Software Engineer  
 
 In other words, **I build cool stuff**  
 
@@ -10,10 +10,3 @@ In other words, **I build cool stuff**
 
 - **Languages**: Python, C/C++, Java, Arduino, SQL, HTML, CSS
 
----
-
-
-## 🌱 Currently Building:
-- A smart device that helps me increase my focus by setting mode for different activities.  
-- A gas detector that sends a phone notifications when gas leaks are detected.  
----
